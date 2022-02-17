@@ -1,0 +1,15 @@
+.timer {
+    font-size: 18px;
+    text-align: center;
+    margin-top: 5%;
+}
+
+#timer {
+    font-size: 36px;
+    color: rgb(0, 47, 255);
+}
+.timer-text {
+    font-size: 28px;
+    text-align: center;
+    color: rgb(153, 11, 70);
+ }
